@@ -1,0 +1,5 @@
+Full_tutorial.sln
+/packages
+/.vs
+/Full_tutorial/bin
+/Full_tutorial.Tests/bin

@@ -94,3 +94,8 @@ C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tut
 C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
 C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\obj\Debug\Full_tutorial.dll
 C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\obj\Debug\Full_tutorial.pdb
+C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\bin\MySql.Data.dll
+C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\bin\mysql.data.entity.EF6.dll
+C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\bin\MySql.Web.dll
+C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\obj\Debug\Full_tutorial.Migrations.initial.resources
+C:\Users\SLAM24\Documents\luis\estudios\asp.net\Practicas\Full_tutorial\Full_tutorial\obj\Debug\Full_tutorial.csproj.GenerateResource.Cache
